@@ -1,0 +1,9 @@
+id_banco;nome_banco;tipo_banco
+1;Itaú;Tradicional
+2;Bradesco;Tradicional
+3;Santander;Tradicional
+4;Banco do Brasil;Tradicional
+5;Nubank;Digital
+6;Inter;Digital
+7;C6 Bank;Digital
+8;PicPay;Digital
